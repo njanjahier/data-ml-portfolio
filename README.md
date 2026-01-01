@@ -71,8 +71,11 @@ This project is designed as a **foundation** that can be continuously extended w
 To run the project locally:
 
 git clone https://github.com/njanjahier/data-ml-portfolio.git
+
 cd data-ml-portfolio
+
 npm install
+
 npm run dev
 
 The app will be available at
