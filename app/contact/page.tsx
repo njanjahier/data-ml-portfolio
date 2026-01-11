@@ -1,6 +1,5 @@
 "use client";
 
-
 import { Mail, Linkedin, Github } from "lucide-react"
 
 export default function ContactPage() {
@@ -11,7 +10,9 @@ export default function ContactPage() {
           Kontakt
         </h1>
         <p className="text-zinc-600">
+          
           Otvorena sam za tehničke pozicije, projekte i saradnju u oblasti razvoja softvera.
+          
         </p>
       </div>
 
