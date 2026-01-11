@@ -1,14 +1,13 @@
-# 📊 Data & ML Portfolio
+# 📊 Portfolio
 
-Personal portfolio website built to showcase my **data, machine learning, and web projects** in a clear, professional, and shareable way.
-
+Personal portfolio website.
 🔗 **Live demo:** https://data-ml-portfolio-19dp3joeg-sanja-savics-projects.vercel.app 
 
 ---
 
 ## 🧩 Problem
 
-As someone building skills in **data analysis and machine learning**, I needed a way to:
+As someone building skills in **software engineering**, I needed a way to:
 
 - present my projects in one central place,
 - make the portfolio easy to share with recruiters and collaborators,
@@ -63,22 +62,10 @@ This ensures the portfolio looks professional when shared via LinkedIn, email, o
 - Clean project structure and maintainable code
 - Awareness that presentation matters in technical work
 
-This project is designed as a **foundation** that can be continuously extended with new data and ML projects.
+This project is designed as a **foundation** that can be continuously extended with new projects.
 
 ---
 
-## ▶️ Run Locally
 
-To run the project locally:
 
-git clone https://github.com/njanjahier/data-ml-portfolio.git
-
-cd data-ml-portfolio
-
-npm install
-
-npm run dev
-
-The app will be available at
-👉 http://localhost:3000.
 
