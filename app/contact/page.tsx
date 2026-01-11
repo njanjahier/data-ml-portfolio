@@ -8,7 +8,7 @@ export default function ContactPage() {
           Kontakt
         </h1>
         <p className="text-zinc-600">
-          Otvorena sam za Data & Machine Learning pozicije, projekte i saradnju.
+          Otvorena sam za tehničke pozicije, projekte i saradnju u oblasti razvoja softvera.
         </p>
       </div>
 
