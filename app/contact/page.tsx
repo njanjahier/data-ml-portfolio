@@ -1,3 +1,6 @@
+"use client";
+
+
 import { Mail, Linkedin, Github } from "lucide-react"
 
 export default function ContactPage() {
