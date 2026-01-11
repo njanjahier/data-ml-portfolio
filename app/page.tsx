@@ -17,7 +17,7 @@ export default function Home() {
 </h1>
 
           <p className="text-zinc-600 max-w-xl">
-  Fokus na analizu podataka, mašinsko učenje i razvoj rješenja
+  Fokus na razvoju rješenja
   zasnovanih na realnim poslovnim potrebama.
 </p>
 
