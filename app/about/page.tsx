@@ -7,9 +7,9 @@ export default function AboutPage() {
         </h1>
 
         <p className="text-zinc-400">
-          Diplomirani inženjer računarstva i informatike sa fokusom na analizu
-          podataka, mašinsko učenje i razvoj rješenja zasnovanih na realnim
-          poslovnim potrebama.
+          Diplomirani inženjer računarstva i informatike sa fokusom na razvoj web aplikacija i izradu funkcionalnih rješenja zasnovanih na realnim poslovnim potrebama.
+          Posebno me interesuju projekti u kojima se spajaju dobar korisnički interfejs, jasna logika aplikacije i čisto strukturiran kod. 
+          Volim raditi na kompletnim rješenjima — od ideje i strukture, do implementacije i deploya.
         </p>
       </div>
 
@@ -19,18 +19,19 @@ export default function AboutPage() {
         </h2>
 
         <p className="text-zinc-300">
-          Ne gradim modele “radi modela”. Počinjem od pitanja:
+          Ne gradim aplikacije „reda radi“. Uvijek polazim od pitanja:
           <br />
           <span className="italic text-zinc-400">
-            “Koji problem pokušavamo riješiti i kako mjerimo uspjeh?”
+            „Koji problem korisnik ima i kako mu aplikacija konkretno pomaže?“
+            U radu se fokusiram na:
           </span>
         </p>
 
         <ul className="list-disc list-inside text-zinc-400 space-y-2">
-          <li>analizi i razumijevanju podataka</li>
-          <li>feature engineering-u</li>
-          <li>evaluaciji i interpretaciji ML modela</li>
-          <li>jasnoj komunikaciji rezultata</li>
+          <li>jasnu strukturu aplikacije i čitljiv kod/li>
+          <li>validaciju podataka i korisničke tokove</li>
+          <li>praktična rješenja koja se mogu koristiti u stvarnom okruženju</li>
+          <li>stabilnost i jednostavnost korištenja</li>
         </ul>
       </div>
 
@@ -42,12 +43,12 @@ export default function AboutPage() {
         <div className="flex flex-wrap gap-3">
           {[
             'Python',
-            'Pandas',
-            'NumPy',
-            'Scikit-learn',
+            'Next.js',
+            'React',
+            'TypeScript',
+            'JavaScript',
+            'Tailwind CSS',
             'SQL',
-            'Machine Learning',
-            'Data Analysis',
           ].map((tech) => (
             <span
               key={tech}
