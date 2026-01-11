@@ -28,8 +28,8 @@ export default function AboutPage() {
         </p>
 
         <ul className="list-disc list-inside text-zinc-400 space-y-2">
-          <li>jasnu strukturu aplikacije i čitljiv kod/li>
           <li>validaciju podataka i korisničke tokove</li>
+          <li>jasnu strukturu aplikacije i čitljiv kod</li>
           <li>praktična rješenja koja se mogu koristiti u stvarnom okruženju</li>
           <li>stabilnost i jednostavnost korištenja</li>
         </ul>
