@@ -7,13 +7,13 @@ Personal portfolio website.
 
 ## 🧩 Problem
 
-As someone building skills in **software engineering**, I needed a way to:
+As a software engineering student, I needed a way to:
 
-- present my projects in one central place,
-- make the portfolio easy to share with recruiters and collaborators,
-- ensure the website looks professional when shared on social media (LinkedIn, GitHub, email),
-- follow modern web standards (SEO, performance, deployment),
-- keep the setup simple and scalable for future projects.
+- Present my projects in one central place
+- Make the portfolio easy to share with recruiters and collaborators
+- Ensure the website looks professional when shared on social media (LinkedIn, GitHub, email)
+- Follow modern web standards (SEO, performance, deployment)
+- Keep the setup simple and scalable for future projects
 
 A plain GitHub repository list was not enough — I wanted a **production-ready portfolio website**.
 
