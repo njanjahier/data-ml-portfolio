@@ -9,7 +9,7 @@ export default function ProjectsPage() {
           Projekti
         </h1>
         <p className="text-zinc-400 max-w-2xl">
-          Od realnih poslovnih problema do implementiranih Machine Learning rješenja.
+          Od realnih poslovnih problema do implementiranih softverskih rješenja.
         </p>
       </div>
 
